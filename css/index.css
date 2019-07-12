@@ -146,9 +146,10 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
-
+/* <---------------code starts here----------------> */
 header{
     display:flex;
+    align-items: baseline;
     margin-top: 20px;
     padding: 5px;
 }
@@ -273,7 +274,10 @@ justify-content: center;
     align-items: center;
     justify-content: center;
 }
-
+/* <--------------------------ABOUT PAGE----------------------> */
+/* <--------------------------ABOUT PAGE----------------------> */
+/* <--------------------------ABOUT PAGE----------------------> */
+/* <--------------------------ABOUT PAGE----------------------> */
 /* <--------------------------ABOUT PAGE----------------------> */
 
 .tower{
@@ -289,14 +293,12 @@ justify-content: center;
 .top-middle{
 
     display: flex;
-    margin: 20px;
-    padding: 10px;
+    justify-content: center;
 }
 
 .middle{
     display: flex;
-    margin: 20px;
-    padding: 10px;
+    justify-content: center;
 }
 
 .bottom{
@@ -324,3 +326,5 @@ button{
     padding:20px;
     border-bottom: 1px dashed black;
 }
+
+.box1{}
